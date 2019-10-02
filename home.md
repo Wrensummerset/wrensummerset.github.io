@@ -16,7 +16,11 @@ others.
 
 You can contact me through:
 twitter.com/summersetwren
+
 linkedin.com/in/wren-summerset-4535b4193
+
+wrensummerset@gmail.com
+
 
 # Blog post 1: October 2, 2019
 
