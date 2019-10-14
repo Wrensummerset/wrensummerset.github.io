@@ -27,7 +27,7 @@ others.
 You can contact me through:
 <ul>
  <li><a href="https://www.linkedin.com/in/wren-summerset-4535b4193/">linkedin.com/in/wren-summerset-4535b4193</a></li>
- twitter.com/summersetwren
+
 
 <li> <a href="https://twitter.com/SummersetWren">twitter.com/summersetwren</a></li>
 
