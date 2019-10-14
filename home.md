@@ -25,11 +25,12 @@ others.
 # Contact
 
 You can contact me through:
-twitter.com/summersetwren
+<ul>
+ <li>twitter.com/summersetwren</li>
 
-linkedin.com/in/wren-summerset-4535b4193
+<li>linkedin.com/in/wren-summerset-4535b4193</li>
 
-wrensummerset@gmail.com
+<li>wrensummerset@gmail.com</li></ul>
 
 
 
