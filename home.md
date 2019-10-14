@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <h1>Wren's Song</h1>
+  </head>
+ <body>
+  <img src="/home/code6/Pictures/bird-30843_960_720.png">
 # About me
 
 My name is Wren Summerset.  I have been an online ESL instructor for the past 2 1/2 years which allowed me to be an at home
@@ -47,3 +54,5 @@ For companies to be successful, they have to be willing to stop staring so hard 
 Agile provides a framework flexible to its work environment, where groups collaborate the plan for accomplishing the desired tasks.  After this initial planning meeting, “sprint meetings” will be held where employees will report their work, not only for transparency but in order to be supported in overcoming any obstacles they’re facing regarding their piece of the puzzle.  This ensures appropriate communication between everyone involved.  Large projects are broken down into simpler smaller ones and helps sweep projects along at a better pace, as no one is getting bogged down in giant tasks.  
 
 Human nature is what it is.  When treated as adults, people tend to return adult actions.  Policing employees is counterproductive to the ultimate end goal.  It may be unsettling trying to cultivate new work environments and cultures, but wouldn’t it be nicer to put company energy towards coordinated efforts that deliver quality end results for the client?  In the end, that bottom line is bolstered and the company better able to manage the rough waters out there.
+</body>
+</html>
