@@ -4,7 +4,7 @@
   <h1>Wren's Song</h1>
   </head>
  <body>
-  <img src="/home/code6/Pictures/bird-30843_960_720.png">
+  <img src="https://pixabay.com/vectors/bird-finch-wren-perch-30843/" alt="/home/code6/Pictures/bird-30843_960_720.png">
 # About me
 
 My name is Wren Summerset.  I have been an online ESL instructor for the past 2 1/2 years which allowed me to be an at home
