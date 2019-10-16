@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+ <center>
  <head>
   <h1>Wren's Song</h1>
   </head>
  <body>
   <img src="https://cdn.pixabay.com/photo/2019/05/02/10/52/wren-4173113_960_720.jpg" alt="Wren on a fence post" width="600" height="450" >
+  </central>
   
 # About me
 
