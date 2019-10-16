@@ -6,7 +6,7 @@
   </head>
  <body>
   <img src="https://cdn.pixabay.com/photo/2019/05/02/10/52/wren-4173113_960_720.jpg" alt="Wren on a fence post" width="600" height="450" >
-  </center>
+  
   
 # About me
 
@@ -60,4 +60,5 @@ Agile provides a framework flexible to its work environment, where groups collab
 
 Human nature is what it is.  When treated as adults, people tend to return adult actions.  Policing employees is counterproductive to the ultimate end goal.  It may be unsettling trying to cultivate new work environments and cultures, but wouldn’t it be nicer to put company energy towards coordinated efforts that deliver quality end results for the client?  In the end, that bottom line is bolstered and the company better able to manage the rough waters out there.
 </body>
+</center>
 </html>
