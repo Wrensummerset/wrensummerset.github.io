@@ -52,7 +52,7 @@ You can contact me through:
 
 # Blog post 3: October 18, 2019
 
-https://dev.to/summersetwren/what-is-git-cji
+https://dev.to/summersetwren/intro-to-web-development-42af
 
 
 
