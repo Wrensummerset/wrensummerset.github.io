@@ -50,10 +50,16 @@ You can contact me through:
 
 
 
+# Blog post 3: October 18, 2019
+
+https://dev.to/summersetwren/what-is-git-cji
+
+
 
 # Blog post 2: October 10, 2019
 
 https://dev.to/summersetwren/overcomming-obstacles-in-the-tech-world-3faf
+
 
 # Blog post 1: October 2, 2019
 
