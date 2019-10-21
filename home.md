@@ -24,7 +24,7 @@
 # About me
 
 My name is Wren Summerset.  I have been an online ESL instructor for the past 2 1/2 years which allowed me to be an at home
-mom to my 3 little yahoos.  I enjoy spending time with my kids walking through the beautiful park and walking trails that take us to our local library. We can easily spend several hours there before heading home along the same path where we can watch nature change through the seasons and identify different plants and animals in the area.
+mom to my 3 little yahoos.  I enjoy spending time with my kids walking through the beautiful park and walking trails that take us to our local library.
 
  I'm on a journey to become self directing.  In the past my story was largely scripted by others. 
 I finally see that this was not in my best interest, nor did it serve my children/family, as I once believed.  
