@@ -49,6 +49,10 @@ You can contact me through:
 <li>wrensummerset@gmail.com</li></ul>
 
 
+# Blog post 4: October 25, 2019
+
+https://dev.to/summersetwren/what-a-beginner-has-learned-about-css-3ah4
+
 
 # Blog post 3: October 18, 2019
 
