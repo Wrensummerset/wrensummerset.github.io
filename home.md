@@ -68,7 +68,7 @@ https://dev.to/summersetwren/overcomming-obstacles-in-the-tech-world-3faf
 # Blog post 1: October 2, 2019
 
 
-Agile leads to adult work environments.
+# Agile leads to adult work environments.
 
 People don’t leave the work, they leave bad managers.
 
