@@ -1,0 +1,33 @@
+body{
+  font-size:15;
+    font-family: 'Indie Flower', cursive;
+    background-color: #db921c;
+} 
+
+
+  h1{
+    font-size: 4em;
+      color: #944e1b;
+  }
+  h2{
+    font-size: 2em;
+    color: #FFC300;
+  }
+  .rounded{
+  border-radius: 15%
+  }
+  .content{
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  }
+  .container {
+    width: 100%;
+  }
+  .topnav a{
+font-family: optima, sans-serif;
+font-size: 3em;
+color: 	#FFA500
+  }
