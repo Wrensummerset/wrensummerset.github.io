@@ -9,26 +9,16 @@ body{
       position:relative;
     }
   #bird{
-  left:100%;
+  /*left:100%;*/
   animation:fly 5s infinite;
+  animation-name:fly;
   }
   
 @keyframes fly {
-     0%{
-       left:100%;
-       bottom: 5px;
+     from{
+       margin-left:110%;
      }
-     25%{
-       bottom:100px;
-     }
-     50%{
-       bottom:80px;
-     }
-     75%{
-       bottom:25px;
-     }
-   }
-     100%{
-       left:-120px
-       bottom:102px;
+      to {
+        margin-left: 0%;
+      }
      }

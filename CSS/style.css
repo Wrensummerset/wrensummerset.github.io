@@ -29,5 +29,7 @@ body{
   .topnav a{
 font-family: optima, sans-serif;
 font-size: 3em;
-color: 	#FFA500
+color: 	#FFA500;
+text-decoration: none;
+
   }
