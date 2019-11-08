@@ -1,31 +1,77 @@
-body{
-  font-size:15;
-    font-family: 'Indie Flower', cursive;
-    background-color: #db921c;
-} 
+/*********html stuff**************/
+
+body {
+    background-color: #003f5c;
+    margin: 0%;
+}
+
+h1 {
+
+    font-family: 'Yeon Sung', cursive;
+    font-size: 2;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    color: #fb5b5a;
+}
+
+h2 {
+    font-family: 'Yeon Sung', cursive, sans-serif;
+    font-size: 1;
+    color: #bc4873;
+    position: absolute;
+    right: 20px;
+    top: 85px;
+
+}
+
+/*****divs** ***/
+
+.firstdiv {
+    margin: 0;
+    background-image: images/hearthfire.jpg
+    text-align: centerS;
+    position: relative;
+}
+.seconddivparent{
+    text-align: center;
+
+}
+
+.seconddiv {
+    background-color: #bc4873 ;
+    height: 400 px;
+    margin: 0;
+    padding-top: 30px
+    display: inline-block;
+    position: relative;
+}
+
+.thirddiv {
+
+    background: url(images/sunset-on-a-beach.gif);
+}
 
 
-  h1{
-    font-size: 4em;
-      color: #944e1b;
-  }
-  h2{
-    font-size: 2em;
-    color: #FFC300;
-  }
-  .rounded{
-  border-radius: 15%
-  }
-  .content{
-  width: 50%;
-  margin: 0 auto;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  }
-  .container {
+
+
+
+/***********images***********/
+.sunset {
     width: 100%;
-  }
+}
+
+.profilepic {
+
+height: 130px;
+width: auto;
+border-radius: 50%;
+margin: 0px;
+position: absolute;
+right: 80px;
+}
+
+
   .topnav a{
 font-family: optima, sans-serif;
 font-size: 3em;
