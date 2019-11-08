@@ -1,6 +1,7 @@
 body {
   background-color: #003f5c;
   margin: 0%;
+  
 }
 
 h1 {
@@ -23,12 +24,13 @@ h2 {
 
 }
 
-/*****divs** ***/
+
+/*****divs** #bc4873***/
 
 .firstdiv {
   margin: 0;
   background-image: images/hearthfire.jpg
-  text-align: centerS;
+  text-align: center;
   position: relative;
 }
 .seconddivparent{
@@ -49,6 +51,19 @@ h2 {
 
   background: url(images/sunset-on-a-beach.gif);
 }
+.aboutme {
+  margin-right: 25%;
+}
+.blogtextparent {
+position: relative;
+
+}
+.blogtext {
+  width: 50%
+  position: absolute;
+  bottom: 100px;
+  
+  }
 
 
 
@@ -69,21 +84,14 @@ position: absolute;
 right: 80px;
 }
 
+.link {
+  color: #b62472;
+}
 
-  .fab {
-
-
-  }
-  .fa-linkedin-in {
-    color: blue
-  }
-  footer {
-    background-color: black
-    text-align: center
-  }
+.link:hover {
+  color: #fb5b5a; 
+}
+    
 
 
-  .footer ul {
-    display: inline;
-    list-style: none;
-  }
+ 
