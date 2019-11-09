@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #003f5c;
   margin: 0%;
@@ -35,20 +36,69 @@ h2 {
 }
 .seconddivparent{
   text-align: center;
+=======
+/*********html stuff**************/
+
+body {
+    background-color: #003f5c;
+    margin: 0%;
+}
+
+h1 {
+
+    font-family: 'Yeon Sung', cursive;
+    font-size: 2;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    color: #fb5b5a;
+}
+
+h2 {
+    font-family: 'Yeon Sung', cursive, sans-serif;
+    font-size: 1;
+    color: #bc4873;
+    position: absolute;
+    right: 20px;
+    top: 85px;
+
+}
+
+/*****divs** ***/
+
+.firstdiv {
+    margin: 0;
+    background-image: images/hearthfire.jpg
+    text-align: centerS;
+    position: relative;
+}
+.seconddivparent{
+    text-align: center;
+>>>>>>> 0e00410cf64c3dd7568e81007924e23a6c0080c4
 
 }
 
 .seconddiv {
+<<<<<<< HEAD
   background-color: #bc4873 ;
   height: 400 px;
   margin: 0;
   padding-top: 30px
   display: inline-block;
   position: relative;
+=======
+    background-color: #bc4873 ;
+    height: 400 px;
+    margin: 0;
+    padding-top: 30px
+    display: inline-block;
+    position: relative;
+>>>>>>> 0e00410cf64c3dd7568e81007924e23a6c0080c4
 }
 
 .thirddiv {
 
+<<<<<<< HEAD
   background: url(images/sunset-on-a-beach.gif);
 }
 .aboutme {
@@ -64,6 +114,10 @@ position: relative;
   bottom: 100px;
   
   }
+=======
+    background: url(images/sunset-on-a-beach.gif);
+}
+>>>>>>> 0e00410cf64c3dd7568e81007924e23a6c0080c4
 
 
 
@@ -71,7 +125,11 @@ position: relative;
 
 /***********images***********/
 .sunset {
+<<<<<<< HEAD
   width: 100%;
+=======
+    width: 100%;
+>>>>>>> 0e00410cf64c3dd7568e81007924e23a6c0080c4
 }
 
 .profilepic {
@@ -84,6 +142,7 @@ position: absolute;
 right: 80px;
 }
 
+<<<<<<< HEAD
 .link {
   color: #b62472;
 }
@@ -95,3 +154,11 @@ right: 80px;
 
 
  
+=======
+
+  .topnav a{
+font-family: optima, sans-serif;
+font-size: 3em;
+color: 	#FFA500
+  }
+>>>>>>> 0e00410cf64c3dd7568e81007924e23a6c0080c4
