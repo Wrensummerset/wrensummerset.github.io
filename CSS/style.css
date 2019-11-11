@@ -7,7 +7,7 @@ body {
 h1 {
 
   font-family: 'Yeon Sung', cursive;
-  font-size: 2;
+  font-size: 6;
   position: absolute;
   top: 40px;
   right: 20px;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family: 'Yeon Sung', cursive, sans-serif;
-  font-size: 1;
+  font-size: 3;
   color: #bc4873;
   position: absolute;
   right: 20px;
@@ -40,7 +40,7 @@ h2 {
 
 .seconddiv {
   background-color: #bc4873 ;
-  height: 400 px;
+  height: 1600 px;
   margin: 0;
   padding-top: 30px
   display: inline-block;
@@ -85,10 +85,10 @@ right: 80px;
 }
 
 .link {
-  color: #b62472;
+  color: #fb5b5a;
  }
 
-.link:hover {
-  color: #fb5b5a; 
+.link:hover { #b62472
+  color: ; 
 }
   
